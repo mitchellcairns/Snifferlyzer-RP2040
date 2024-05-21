@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "snifferlyzer-lib")(type "KiCad")(uri "${KIPRJMOD}/libs/snifferlyzer-lib.pretty")(options "")(descr ""))
+)
